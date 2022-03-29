@@ -1,6 +1,13 @@
-### Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsc)
 
 <!--
+<div style"display: inline_block">
+<img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+
 **pablofsc/pablofsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
