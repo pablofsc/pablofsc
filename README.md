@@ -12,9 +12,9 @@
 </p>
 
 <p>
-  Hi, I'm a brazilian Computer Engineering student and an aspiring web developer.
+  Hello world, I'm a brazilian Computer Engineering student and an aspiring web developer.
 </p>
   
 <p align="center">
-    https://pablofsc.github.io/portfolio
+    https://pablofsc.me
 </p>
