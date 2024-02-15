@@ -1,21 +1,23 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsc&layout=compact&theme=github_dark&langs_count=20" />
 
 <p align="center">
-  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> &nbsp;
-  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> &nbsp;
-  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> &nbsp;
-  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp;
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
+  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> &nbsp;
+  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" /> &nbsp;
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
-  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> &nbsp;
-  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp;
+  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> &nbsp;
+  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> &nbsp;
+  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> &nbsp;
+  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> &nbsp;
 </p>
 
 <p>
-  Hello world, I'm a brazilian Computer Engineering student and an aspiring web developer.
+  Hello world
+
+  Web developer with experience in Angular/Ionic, NestJS, Python and WordPress plugin development (PHP)
 </p>
   
 <p align="center">
-    https://pablofsc.me
+    https://pablofsc.github.io
 </p>
