@@ -5,17 +5,15 @@
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> &nbsp;
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" /> &nbsp;
-  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
-  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> &nbsp;
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> &nbsp;
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> &nbsp;
+  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" /> &nbsp;
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> &nbsp;
+  <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> &nbsp;
 </p>
 
-<p>
-  Hello world
-
-  Web developer with experience in Angular/Ionic, NestJS, Python and WordPress plugin development (PHP)
+<p align="center">
+  I make stuff with JS and PHP.
 </p>
   
 <p align="center">
