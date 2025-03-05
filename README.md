@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I make stuff with JS and PHP.
+  I like programming
 </p>
   
 <p align="center">
