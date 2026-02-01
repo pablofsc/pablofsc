@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=pablofsc&layout=compact&theme=github_dark&langs_count=20&hide=Dockerfile,Makefile
+          options: username=pablofsc&layout=compact&theme=github_dark&langs_count=10&hide=Dockerfile,Makefile,CMake
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
