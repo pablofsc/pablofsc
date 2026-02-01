@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsc&layout=compact&theme=github_dark&langs_count=20&hide=Dockerfile,Makefile" />
+<img align="right" src="./profile/top-langs.svg" />
 
 <p align="left">
   <img height="25px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> &nbsp;
